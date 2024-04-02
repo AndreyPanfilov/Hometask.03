@@ -31,6 +31,23 @@
      - ### Unordered Lists
     ##### To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.
 
+    *Example:*
+        
+        - First item
+        - Second item
+        - Third item
+            + Indented item
+            + Indented item
+        - Fourth item      
+    
+    *Result:* 
+    - First item
+    - Second item
+    - Third item
+        + Indented item
+        + Indented item
+    - Fourth item 
+
 - ## Images
 
 - ## links
