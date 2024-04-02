@@ -27,6 +27,8 @@ Nearly all Markdown applications support the basic syntax outlined in the origin
 
 - ## Paragraphs
 
+    ##### To create paragraphs, use a blank line to separate one or more lines of text.
+
 - ## Lists
 
 - ## Images
