@@ -20,7 +20,7 @@
     *Result:*  
     #### Heading level 1
 
-Note: Markdown applications don’t agree on how to handle a missing space between the number signs (#) and the heading name. For compatibility, always put a space between the number signs and the heading name.
+    **Note:** *Markdown applications don’t agree on how to handle a missing space between the number signs (#) and the heading name. For compatibility, always put a space between the number signs and the heading name.*
 
 - ## Paragraphs
 
