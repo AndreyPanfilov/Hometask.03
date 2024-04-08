@@ -101,3 +101,19 @@
     *Result:* 
         
     Alice is cute. I love [Alice](https://alice.yandex.ru).  
+
+
+## Extra infromation about git (remote repository work commands)
+
+   1. git clone - copies a remote repository on PC
+   2. git pull - downloads everything from remote depository and merges with lockal repository
+   3. git pull - uploads local repository into a remote repository (!!!authorization needed!!!)
+
+
+        #### pull request:
+            1. create fork repository 
+            2. clone your repository
+            3. if needed, create a new branch, edit
+            4. commit changes
+            5. save changes on remote repository
+            6. on the GitHub webpage, press "pull request" button
